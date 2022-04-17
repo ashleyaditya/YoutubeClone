@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;500&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Akshar", sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  background-color: white;
+  height: 52px;
+  padding: 0 32px;
+  justify-content: space-between;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+.fa-youtube {
+  color: red;
+}
+
+.search {
+  width: 400px;
+  height: 36px;
+  padding: 10px;
+  font-size: 16px;
+}
